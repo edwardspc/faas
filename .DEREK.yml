@@ -14,6 +14,8 @@ maintainers:
  - s8sg
  - affix
  - zeerorg
+ - matipan
+ - zeerorg
 
 features:
  - dco_check
