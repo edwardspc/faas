@@ -53,9 +53,14 @@ It would be great to hear from you especially if you have any of the above and w
 | [How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer, LivePerson](https://kccnceu19.sched.com/event/MPeR/how-liveperson-is-tailoring-its-conversational-platform-using-openfaas-simon-pelczer-liveperson-ivana-yovcheva-vmware) | Simon Pelczer | KubeCon, Barcelona EU | 23-May-2019 |
 | [Merging Quickly in a Cloud Native World](https://kccnceu19.sched.com/event/MPZM/merging-quickly-in-a-cloud-native-world-lucas-roesler-contiamo) | Lucas Roesler | KubeCon, Barcelona EU | 22-May-2019 |
 | [Accelerating the Journey of an AI Algorithm to Production with OpenFaaS - Joost Noppen, BT PLC & Alex Ellis](https://kccnceu19.sched.com/event/MPeF/accelerating-the-journey-of-an-ai-algorithm-to-production-with-openfaas-joost-noppen-bt-plc-alex-ellis-vmware) | Joost Noppen & Alex Ellis | KubeCon, Barcelona EU | 22-May-2019 |
+| [Docker Birmingham: Staying on topic - Invoke your OpenFaaS functions through Kafka](https://www.meetup.com/Docker-Birmingham/events/260563667/?_xtd=gqFyqTI2MjQ0NTE2NKFwp2FuZHJvaWQ&from=ref) | Richard Gee | Birmingham, UK | 7-May-2019 |
 | [Jax - Serverless and Functions as a Service mit Java, Docker und OpenFaaS](https://jax.de/cloud-container-serverless/serverless-und-functions-as-a-service-mit-java-docker-und-openfaas/) | Dr. Halil-Cem Gürsoy | Mainz, Germany | 6-May-2019 |
+| [PHP Shropshire: Staying on topic - Invoke your OpenFaaS functions through Kafka](https://www.meetup.com/PHP-Shropshire/events/260591121/) | Richard Gee | Telford, UK | 2-May-2019 |
 | [goto Chicago masterclass: Serverless Kubernetes with OpenFaaS](https://gotochgo.com/2019/workshops/152) | Alex Ellis & Ed Wilde | Chicago, USA | 1-May-2019 |
 | [goto Chicago session: Welcome to Serverless 2.0](https://gotochgo.com/2019/sessions/728) | Alex Ellis | Chicago, USA | 30-Apr-2019 |
+| [IT Depends #1: Google Cloud na produkcji i serverless z OpenFaaS](https://www.meetup.com/meetup-group-zhlFJrTR/events/260534334/) | Sebastian Woldański | Katowice, Poland | 17-Apr-2019 |
+| [BelFOSS 2019: OpenFaaS - Keeping Serverless Simple](https://belfoss.eeecs.qub.ac.uk/agenda/) | John McCabe | Belfast, Northern Ireland | 12-Apr-2019 |
+| [Coworking Monterrey: Lightning Talks and Serverless Functions with OpenFaaS](https://www.facebook.com/events/546729195736337/) | Ernesto Celis | Monterrey, Nuevo León, México | 12-Apr-2019 |
 | [Serverless Architecture Conf: OpenFaaS - Keeping Serverless Simple](https://serverless-architecture.io/serverless-platforms-technology) | John McCabe | The Hague, Netherlands | 9-Apr-2019 |
 | [Microservices North meetup: Kubernetes and AWS Lambda: OpenFaas Demo](https://www.meetup.com/Microservices-North/events/259957002/) | Edward Wilde | London, UK | 4-Apr-2019 |
 | [OpenFaaS in the VMware ecosystem - Webinar](https://www.terasky.com/news/openfaas-in-the-vmware-ecosystem-webinar-april-3rd-2019/) | Scott Rosenberg | Online webinar | 3-Apr-2019 |
@@ -149,11 +154,12 @@ It would be great to hear from you especially if you have any of the above and w
 | [Serverless Beyond the Hype @ Docker London](https://www.meetup.com/Docker-London/events/249221771/) | Alex Ellis | London, UK | 25-May-2018 |
 | [OpenFaaS @ GOTO Nights](https://www.meetup.com/GOTO-Nights-CPH/events/249895973/) | Alex Ellis | Copenhagen, DK | 1-May-2018 |
 | [Kubernetes Seattle: OpenFaas & Migrating to Envoy Proxy in K8s](https://www.meetup.com/Seattle-Kubernetes-Meetup/events/250105287/) | Eric Stoekl | Seattle, WA | 23-May-2018 |
-| [OpenFaaS @ Serverless CPH](https://serverlesscph.dk) | John Mccabe | Copenhagen, DK | 16-May-2018 |
+| [OpenFaaS @ Serverless CPH](https://serverlesscph.dk) | John McCabe | Copenhagen, DK | 16-May-2018 |
 | Serverless OpenFaaS and Python Workshop @ Agile Peterborough        | Alex Ellis, Richard Gee  | Peterborough, UK | 12-May-2018 |
 | [Going Serverless with OpenFaaS, Kubernetes, and Python @ PyCon](https://us.pycon.org/2018/schedule/presentation/40/) | [Michael Herman](https://twitter.com/mikeherman) |  Cleveland, OH | 9-May-2018 |
 | [OpenFaaS talk and workshop @ Cisco DevNet Create](https://devnetcreate.io/2018/pages/speaker/speaker.html#Alex-Ellis) | Alex Ellis | Mountain View, CA | 10/11-Apr-2018 |
 | [OpenFaaS : a serverless framework on top of Docker and Kubernetes @ Devoxx France](https://www.devoxx.fr/) | [Laurent Grangeau](https://twitter.com/laurentgrangeau) | Paris, France | 18-Apr-2018 |
+| [Serverless meetup - Serverless vs. Organizations: How Serverless forces us to *un*learn](https://www.meetup.com/Serverless-Dusseldorf/events/259557587/) | Thomas Peitz | Dusseldorf, Germany | 12-April-2018 |
 | [Deep Dive: Serverless Computing mit OpenFaaS - Magdeburger Developer Days](https://www.md-devdays.de/Act?id=34/) | Frank Pommerening | Magdeburg Germany | 10-April-2018 |
 | [.NET Core on a Raspberry Pi Cluster with Docker and OpenFaaS](https://www.meetup.com/St-Pete-NET-Meetup/events/247299483/) | John Callaway | St Petersburg, FL | 03-Apr-2018 |
 | [.NET Core on a Raspberry Pi Cluster with Docker and OpenFaaS](http://www.codepalousa.com/Sessions/1034) | John Callaway | Louisville, KY | 30-Mar-2018 |
